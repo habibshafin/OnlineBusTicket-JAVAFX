@@ -1,0 +1,312 @@
+2018-01-31,Dhaka,Chittagong,GreenLine,0700,1n24n25n8n9n10n11n2n34,700
+2018-01-31,Dhaka,Panchagarh,GreenLine,0700,1n16n17,800
+2018-01-31,Dhaka,Chittagong,Shohag Enterprise,0800,1n8n9n24n25n2n3,700
+2018-01-31,Dhaka,Chittagong,Hanif Enterprise,0900,0n34n1,650
+2018-01-31,Dhaka,Panchagarh,Shohag Enterprise,0800,1n32n36n36n37n38n39n12n13n14n24n32n21,750
+2018-01-31,Dhaka,Panchagarh,Hanif Enterprise,0900,1n20n21,800
+2018-02-01,Dhaka,Chittagong,GreenLine,0700,1n16n17,650
+2018-02-01,Dhaka,Panchagarh,GreenLine,0700,1n8,750
+2018-02-01,Dhaka,Chittagong,Shohag Enterprise,0800,1n19n23n22,650
+2018-02-01,Dhaka,Chittagong,Hanif Enterprise,0900,1n28n29,700
+2018-02-01,Dhaka,Panchagarh,Shohag Enterprise,0800,1n8n9n10,800
+2018-02-01,Dhaka,Panchagarh,Hanif Enterprise,0900,1n38n39,750
+2018-01-26,Dhaka,Chittagong,GreenLine,0700,1n16n17n8n9n10n11n2n34,650
+2018-01-26,Dhaka,Panchagarh,GreenLine,0700,1n8n9n16n17,750
+2018-01-26,Dhaka,Chittagong,Shohag Enterprise,0800,1n8n9n24n25n2n3,650
+2018-01-26,Dhaka,Chittagong,Hanif Enterprise,0900,0n10n11n8n9n12n13n34n1,700
+2018-01-26,Dhaka,Panchagarh,Shohag Enterprise,0800,1n32n36,800
+2018-01-26,Dhaka,Panchagarh,Hanif Enterprise,0900,1n20n21,800
+2018-01-26,Chittagong,Dhaka,GreenLine,0700,1n16n17n8n9n10n11n2n34,650
+2018-01-26,Panchagarh,Dhaka,GreenLine,0700,1n16n17,750
+2018-01-26,Chittagong,Dhaka,Shohag Enterprise,0800,1n8n9n24n25n2n3,650
+2018-01-26,Chittagong,Dhaka,Hanif Enterprise,0900,0n8n9n12n13n34n1,700
+2018-01-26,Panchagarh,Dhaka,Shohag Enterprise,0800,1n32n36,800
+2018-01-26,Panchagarh,Dhaka,Hanif Enterprise,0900,1n20n21,800
+2018-01-27,Chittagong,Dhaka,GreenLine,0700,1,700
+2018-01-27,Panchagarh,Dhaka,GreenLine,0700,1n4n5n8,750
+2018-01-27,Chittagong,Dhaka,Shohag Enterprise,0800,1n19n23n22,700
+2018-01-27,Chittagong,Dhaka,Hanif Enterprise,0900,1n28n29,700
+2018-01-27,Panchagarh,Dhaka,Shohag Enterprise,0800,1n8n9n10,850
+2018-01-27,Panchagarh,Dhaka,Hanif Enterprise,0900,1n38n39,800
+2018-01-27,Dhaka,Chittagong,GreenLine,0700,1,700
+2018-01-27,Dhaka,Panchagarh,GreenLine,0700,1n8,750
+2018-01-27,Dhaka,Chittagong,Shohag Enterprise,0800,1n19n23n22,700
+2018-01-27,Dhaka,Chittagong,Hanif Enterprise,0900,1n28n29,700
+2018-01-27,Dhaka,Panchagarh,Shohag Enterprise,0800,1n8n9n10,850
+2018-01-27,Dhaka,Panchagarh,Hanif Enterprise,0900,1n38n39,800
+2018-01-28,Chittagong,Dhaka,GreenLine,0700,1,700
+2018-01-28,Panchagarh,Dhaka,GreenLine,0700,1n8,750
+2018-01-28,Chittagong,Dhaka,Shohag Enterprise,0800,1n19n23n22,700
+2018-01-28,Chittagong,Dhaka,Hanif Enterprise,0900,1n28n29,700
+2018-01-28,Panchagarh,Dhaka,Shohag Enterprise,0800,1n8n9n10,850
+2018-01-28,Panchagarh,Dhaka,Hanif Enterprise,0900,1n38n39,800
+2018-01-28,Dhaka,Chittagong,GreenLine,0700,1,700
+2018-01-28,Dhaka,Panchagarh,GreenLine,0700,1n8,750
+2018-01-28,Dhaka,Chittagong,Shohag Enterprise,0800,1n19n23n22,700
+2018-01-28,Dhaka,Chittagong,Hanif Enterprise,0900,1n28n29,700
+2018-01-28,Dhaka,Panchagarh,Shohag Enterprise,0800,1n8n9n10,850
+2018-01-28,Dhaka,Panchagarh,Hanif Enterprise,0900,1n38n39,800
+2018-01-29,Dhaka,Chittagong,GreenLine,0700,1n8n9n10n11n2n34,700
+2018-01-29,Dhaka,Panchagarh,GreenLine,0700,1n16n17,800
+2018-01-29,Dhaka,Chittagong,Shohag Enterprise,0800,1n24n25n2n3,700
+2018-01-29,Dhaka,Chittagong,Hanif Enterprise,0900,0n34n1,700
+2018-01-29,Dhaka,Panchagarh,Shohag Enterprise,0800,1,800
+2018-01-29,Dhaka,Panchagarh,Hanif Enterprise,0900,1n20n21,800
+2018-01-30,Dhaka,Chittagong,GreenLine,0700,1,700
+2018-01-30,Dhaka,Panchagarh,GreenLine,0700,1n8,800
+2018-01-30,Dhaka,Chittagong,Shohag Enterprise,0800,1n19n23n22,700
+2018-01-30,Dhaka,Chittagong,Hanif Enterprise,0900,1n28n29,700
+2018-01-30,Dhaka,Panchagarh,Shohag Enterprise,0800,1n8n9n10,800
+2018-01-30,Dhaka,Panchagarh,Hanif Enterprise,0900,1n38n39,800
+2018-01-31,Dhaka,Sylhet,GreenLine,0700,1n8n9n10n11n2n34,600
+2018-01-31,Dhaka,Rajshahi,GreenLine,0700,1n16n17,700
+2018-01-31,Dhaka,Sylhet,Shohag Enterprise,0800,1n24n25n2n3,600
+2018-01-31,Dhaka,Sylhet,Hanif Enterprise,0900,0n34n1,600
+2018-01-31,Dhaka,Rajshahi,Shohag Enterprise,0800,1n32,700
+2018-01-31,Dhaka,Rajshahi,Hanif Enterprise,0900,1n20n21,700
+2018-02-01,Dhaka,Sylhet,GreenLine,0700,1,600
+2018-02-01,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-02-01,Dhaka,Sylhet,Shohag Enterprise,0800,1n19n23n22,600
+2018-02-01,Dhaka,Sylhet,Hanif Enterprise,0900,1n28n29,600
+2018-02-01,Dhaka,Rajshahi,Shohag Enterprise,0800,1n20n21n8n9n10,700
+2018-02-01,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-26,Dhaka,Sylhet,GreenLine,0700,1n8n9n10,600
+2018-01-26,Dhaka,Rajshahi,GreenLine,0700,1n4n5n8n9n16n17,700
+2018-01-26,Dhaka,Sylhet,Shohag Enterprise,0800,1n24n25,600
+2018-01-26,Dhaka,Sylhet,Hanif Enterprise,0900,0n34n1,600
+2018-01-26,Dhaka,Rajshahi,Shohag Enterprise,0800,1n32n36n36n37n38,700
+2018-01-26,Dhaka,Rajshahi,Hanif Enterprise,0900,1n8n9n20n21,700
+2018-01-26,Sylhet,Dhaka,GreenLine,0700,1n8n9n10,600
+2018-01-26,Rajshahi,Dhaka,GreenLine,0700,1n8n9n16n17,700
+2018-01-26,Sylhet,Dhaka,Shohag Enterprise,0800,1n24n25,600
+2018-01-26,Sylhet,Dhaka,Hanif Enterprise,0900,0n34n1,600
+2018-01-26,Rajshahi,Dhaka,Shohag Enterprise,0800,1n32n36n36n37n38,700
+2018-01-26,Rajshahi,Dhaka,Hanif Enterprise,0900,1n20n21,700
+2018-01-27,Sylhet,Dhaka,GreenLine,0700,1n2,600
+2018-01-27,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-27,Sylhet,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-27,Sylhet,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-27,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-27,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-27,Dhaka,Sylhet,GreenLine,0700,1n2,600
+2018-01-27,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-27,Dhaka,Sylhet,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-27,Dhaka,Sylhet,Hanif Enterprise,0900,1n28n29,600
+2018-01-27,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-27,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-28,Sylhet,Dhaka,GreenLine,0700,1n2,600
+2018-01-28,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-28,Sylhet,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-28,Sylhet,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-28,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-28,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-28,Dhaka,Sylhet,GreenLine,0700,1n2,600
+2018-01-28,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-28,Dhaka,Sylhet,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-28,Dhaka,Sylhet,Hanif Enterprise,0900,1n28n29,600
+2018-01-28,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-28,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-29,Sylhet,Dhaka,GreenLine,0700,1n2,600
+2018-01-29,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-29,Sylhet,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-29,Sylhet,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-29,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-29,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-29,Dhaka,Sylhet,GreenLine,0700,1n2,600
+2018-01-29,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-29,Dhaka,Sylhet,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-29,Dhaka,Sylhet,Hanif Enterprise,0900,1n28n29,600
+2018-01-29,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-29,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-30,Sylhet,Dhaka,GreenLine,0700,1n2,600
+2018-01-30,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-30,Sylhet,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-30,Sylhet,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-30,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-30,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-30,Dhaka,Sylhet,GreenLine,0700,1n2,600
+2018-01-30,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-30,Dhaka,Sylhet,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-30,Dhaka,Sylhet,Hanif Enterprise,0900,1n28n29,600
+2018-01-30,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-30,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-31,Sylhet,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-31,Sylhet,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-31,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-31,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Dhaka,Sylhet,GreenLine,0700,1n2,600
+2018-01-31,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-31,Dhaka,Sylhet,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-31,Dhaka,Sylhet,Hanif Enterprise,0900,1n28n29,600
+2018-01-31,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-31,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Dhaka,Rangpur,GreenLine,0700,1n8n9n10n11n2n34,600
+2018-01-31,Dhaka,Rajshahi,GreenLine,0700,1n16n17,700
+2018-01-31,Dhaka,Rangpur,Shohag Enterprise,0800,1n24n25n2n3,600
+2018-01-31,Dhaka,Rangpur,Hanif Enterprise,0900,0n34n1,600
+2018-01-31,Dhaka,Rajshahi,Shohag Enterprise,0800,1n32,700
+2018-01-31,Dhaka,Rajshahi,Hanif Enterprise,0900,1n20n21,700
+2018-02-01,Dhaka,Rangpur,GreenLine,0700,1,600
+2018-02-01,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-02-01,Dhaka,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-02-01,Dhaka,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-02-01,Dhaka,Rajshahi,Shohag Enterprise,0800,1n20n21n8n9n10,700
+2018-02-01,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-26,Dhaka,Rangpur,GreenLine,0700,1n8n9n10,600
+2018-01-26,Dhaka,Rajshahi,GreenLine,0700,1n4n5n8n9n16n17,700
+2018-01-26,Dhaka,Rangpur,Shohag Enterprise,0800,1n24n25,600
+2018-01-26,Dhaka,Rangpur,Hanif Enterprise,0900,0n34n1,600
+2018-01-26,Dhaka,Rajshahi,Shohag Enterprise,0800,1n32n36n36n37n38,700
+2018-01-26,Dhaka,Rajshahi,Hanif Enterprise,0900,1n8n9n20n21,700
+2018-01-26,Rangpur,Dhaka,GreenLine,0700,1n8n9n10,600
+2018-01-26,Rajshahi,Dhaka,GreenLine,0700,1n8n9n16n17,700
+2018-01-26,Rangpur,Dhaka,Shohag Enterprise,0800,1n24n25,600
+2018-01-26,Rangpur,Dhaka,Hanif Enterprise,0900,0n34n1,600
+2018-01-26,Rajshahi,Dhaka,Shohag Enterprise,0800,1n32n36n36n37n38,700
+2018-01-26,Rajshahi,Dhaka,Hanif Enterprise,0900,1n20n21,700
+2018-01-27,Rangpur,Dhaka,GreenLine,0700,1n2,600
+2018-01-27,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-27,Rangpur,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-27,Rangpur,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-27,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-27,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-27,Dhaka,Rangpur,GreenLine,0700,1n2,600
+2018-01-27,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-27,Dhaka,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-27,Dhaka,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-27,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-27,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-28,Rangpur,Dhaka,GreenLine,0700,1n2,600
+2018-01-28,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-28,Rangpur,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-28,Rangpur,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-28,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-28,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-28,Dhaka,Rangpur,GreenLine,0700,1n2,600
+2018-01-28,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-28,Dhaka,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-28,Dhaka,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-28,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-28,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-29,Rangpur,Dhaka,GreenLine,0700,1n2,600
+2018-01-29,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-29,Rangpur,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-29,Rangpur,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-29,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-29,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-29,Dhaka,Rangpur,GreenLine,0700,1n2,600
+2018-01-29,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-29,Dhaka,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-29,Dhaka,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-29,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-29,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-30,Rangpur,Dhaka,GreenLine,0700,1n2,600
+2018-01-30,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-30,Rangpur,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-30,Rangpur,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-30,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-30,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-30,Dhaka,Rangpur,GreenLine,0700,1n2,600
+2018-01-30,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-30,Dhaka,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-30,Dhaka,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-30,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-30,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Rajshahi,Dhaka,GreenLine,0700,1n8,700
+2018-01-31,Rangpur,Dhaka,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-31,Rangpur,Dhaka,Hanif Enterprise,0900,1n28n29,600
+2018-01-31,Rajshahi,Dhaka,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-31,Rajshahi,Dhaka,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Dhaka,Rangpur,GreenLine,0700,1n2,600
+2018-01-31,Dhaka,Rajshahi,GreenLine,0700,1n8,700
+2018-01-31,Dhaka,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-31,Dhaka,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-31,Dhaka,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-31,Dhaka,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Chittagong,Rangpur,GreenLine,0700,1n8n9n10n11n2n34,600
+2018-01-31,Chittagong,Rajshahi,GreenLine,0700,1n16n17,700
+2018-01-31,Chittagong,Rangpur,Shohag Enterprise,0800,1n24n25n2n3,600
+2018-01-31,Chittagong,Rangpur,Hanif Enterprise,0900,0n34n1,600
+2018-01-31,Chittagong,Rajshahi,Shohag Enterprise,0800,1n32,700
+2018-01-31,Chittagong,Rajshahi,Hanif Enterprise,0900,1n20n21,700
+2018-02-01,Chittagong,Rangpur,GreenLine,0700,1,600
+2018-02-01,Chittagong,Rajshahi,GreenLine,0700,1n8,700
+2018-02-01,Chittagong,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-02-01,Chittagong,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-02-01,Chittagong,Rajshahi,Shohag Enterprise,0800,1n20n21n8n9n10,700
+2018-02-01,Chittagong,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-26,Chittagong,Rangpur,GreenLine,0700,1n8n9n10,600
+2018-01-26,Chittagong,Rajshahi,GreenLine,0700,1n16n17,700
+2018-01-26,Chittagong,Rangpur,Shohag Enterprise,0800,1n24n25,600
+2018-01-26,Chittagong,Rangpur,Hanif Enterprise,0900,0n34n1,600
+2018-01-26,Chittagong,Rajshahi,Shohag Enterprise,0800,1n32n36n36n37n38,700
+2018-01-26,Chittagong,Rajshahi,Hanif Enterprise,0900,1n20n21,700
+2018-01-26,Rangpur,Chittagong,GreenLine,0700,1n8n9n10,600
+2018-01-26,Rajshahi,Chittagong,GreenLine,0700,1n16n17,700
+2018-01-26,Rangpur,Chittagong,Shohag Enterprise,0800,1n24n25,600
+2018-01-26,Rangpur,Chittagong,Hanif Enterprise,0900,0n34n1,600
+2018-01-26,Rajshahi,Chittagong,Shohag Enterprise,0800,1n32n36n36n37n38,700
+2018-01-26,Rajshahi,Chittagong,Hanif Enterprise,0900,1n20n21,700
+2018-01-27,Rangpur,Chittagong,GreenLine,0700,1n2,600
+2018-01-27,Rajshahi,Chittagong,GreenLine,0700,1n8,700
+2018-01-27,Rangpur,Chittagong,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-27,Rangpur,Chittagong,Hanif Enterprise,0900,1n28n29,600
+2018-01-27,Rajshahi,Chittagong,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-27,Rajshahi,Chittagong,Hanif Enterprise,0900,1n38n39,700
+2018-01-27,Chittagong,Rangpur,GreenLine,0700,1n2,600
+2018-01-27,Chittagong,Rajshahi,GreenLine,0700,1n8,700
+2018-01-27,Chittagong,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-27,Chittagong,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-27,Chittagong,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-27,Chittagong,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-28,Rangpur,Chittagong,GreenLine,0700,1n2,600
+2018-01-28,Rajshahi,Chittagong,GreenLine,0700,1n8,700
+2018-01-28,Rangpur,Chittagong,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-28,Rangpur,Chittagong,Hanif Enterprise,0900,1n28n29,600
+2018-01-28,Rajshahi,Chittagong,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-28,Rajshahi,Chittagong,Hanif Enterprise,0900,1n38n39,700
+2018-01-28,Chittagong,Rangpur,GreenLine,0700,1n2,600
+2018-01-28,Chittagong,Rajshahi,GreenLine,0700,1n8,700
+2018-01-28,Chittagong,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-28,Chittagong,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-28,Chittagong,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-28,Chittagong,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-29,Rangpur,Chittagong,GreenLine,0700,1n2,600
+2018-01-29,Rajshahi,Chittagong,GreenLine,0700,1n8,700
+2018-01-29,Rangpur,Chittagong,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-29,Rangpur,Chittagong,Hanif Enterprise,0900,1n28n29,600
+2018-01-29,Rajshahi,Chittagong,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-29,Rajshahi,Chittagong,Hanif Enterprise,0900,1n38n39,700
+2018-01-29,Chittagong,Rangpur,GreenLine,0700,1n2,600
+2018-01-29,Chittagong,Rajshahi,GreenLine,0700,1n8,700
+2018-01-29,Chittagong,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-29,Chittagong,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-29,Chittagong,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-29,Chittagong,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-30,Rangpur,Chittagong,GreenLine,0700,1n2,600
+2018-01-30,Rajshahi,Chittagong,GreenLine,0700,1n8,700
+2018-01-30,Rangpur,Chittagong,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-30,Rangpur,Chittagong,Hanif Enterprise,0900,1n28n29,600
+2018-01-30,Rajshahi,Chittagong,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-30,Rajshahi,Chittagong,Hanif Enterprise,0900,1n38n39,700
+2018-01-30,Chittagong,Rangpur,GreenLine,0700,1n2,600
+2018-01-30,Chittagong,Rajshahi,GreenLine,0700,1n8,700
+2018-01-30,Chittagong,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-30,Chittagong,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-30,Chittagong,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-30,Chittagong,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Rajshahi,Chittagong,GreenLine,0700,1n8,700
+2018-01-31,Rangpur,Chittagong,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-31,Rangpur,Chittagong,Hanif Enterprise,0900,1n28n29,600
+2018-01-31,Rajshahi,Chittagong,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-31,Rajshahi,Chittagong,Hanif Enterprise,0900,1n38n39,700
+2018-01-31,Chittagong,Rangpur,GreenLine,0700,1n2,600
+2018-01-31,Chittagong,Rajshahi,GreenLine,0700,1n8,700
+2018-01-31,Chittagong,Rangpur,Shohag Enterprise,0800,1n19n23n22,600
+2018-01-31,Chittagong,Rangpur,Hanif Enterprise,0900,1n28n29,600
+2018-01-31,Chittagong,Rajshahi,Shohag Enterprise,0800,1n8n9n10,700
+2018-01-31,Chittagong,Rajshahi,Hanif Enterprise,0900,1n38n39,700
+2018-01-27,Dhaka,Rajshahi,Shohag Enterprise,12:00,,700
+2018-01-26,Dhaka,Chittagong,GreenLine,12:00,,1000
+2018-01-27,Dhaka,Chittagong,GreenLine,12:00,n4n5,700

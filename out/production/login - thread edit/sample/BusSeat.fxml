@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="380.0" prefWidth="650.0" style="-fx-background-color: #b2beb5;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.BusSeatController">
+   <children>
+      <HBox layoutX="206.0" layoutY="159.0" prefHeight="47.0" prefWidth="434.0">
+         <children>
+            <ToggleButton fx:id="A3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="A3" />
+            <ToggleButton fx:id="B3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="B3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="C3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="C3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="D3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="D3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="E3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="E3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="F3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="F3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="G3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="G3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="H3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="H3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="I3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="I3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="J3" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="J3">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+         </children>
+         <padding>
+            <Insets left="3.0" top="3.0" />
+         </padding>
+      </HBox>
+      <Label layoutX="152.0" layoutY="24.0" prefHeight="36.0" prefWidth="426.0" text="Online Ticket Managemanet System">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <Label layoutX="50.0" layoutY="74.0" text="Selected Seats:">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="selectedSeats" layoutX="192.0" layoutY="78.0" text="No Seats Selected" />
+      <Label layoutX="50.0" layoutY="99.0" text="Total Cost:">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="192.0" layoutY="103.0" text="TK" />
+      <Label fx:id="price" layoutX="226.0" layoutY="103.0" text="0">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="confirm" layoutX="556.0" layoutY="112.0" mnemonicParsing="false" text="Confirm" />
+      <TextField fx:id="mobile" layoutX="384.0" layoutY="74.0" prefHeight="25.0" prefWidth="230.0" promptText="Enter your mobile number to confirm" />
+      <HBox layoutX="206.0" layoutY="215.0" prefHeight="47.0" prefWidth="434.0">
+         <children>
+            <ToggleButton fx:id="A2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="A2" />
+            <ToggleButton fx:id="B2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="B2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="C2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="C2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="D2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="D2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="E2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="E2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="F2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="F2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="G2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="G2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="H2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="H2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="I2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="I2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="J2" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="J2">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+         </children>
+         <padding>
+            <Insets left="3.0" top="3.0" />
+         </padding>
+      </HBox>
+      <HBox layoutX="206.0" layoutY="296.0" prefHeight="47.0" prefWidth="434.0">
+         <children>
+            <ToggleButton fx:id="A1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="A1" />
+            <ToggleButton fx:id="B1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="B1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="C1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="C1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="D1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="D1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="E1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="E1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="F1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="F1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="G1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="G1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="H1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="H1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="I1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="I1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+            <ToggleButton fx:id="J1" mnemonicParsing="false" prefHeight="38.0" prefWidth="38.0" text="J1">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </ToggleButton>
+         </children>
+         <padding>
+            <Insets left="3.0" top="3.0" />
+         </padding>
+      </HBox>
+   </children>
+</Pane>

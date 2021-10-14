@@ -1,0 +1,12 @@
+2018-01-16,Dhaka,Chittagong,GreenLine,0700,a1.a2
+2018-01-16,Dhaka,Panchagarh,GreenLine,0700,a1
+2018-01-16,Dhaka,Chittagong,Shohag Enterprise,0800,a1
+2018-01-16,Dhaka,Chittagong,Hanif Enterprise,0900,a1
+2018-01-16,Dhaka,Panchagarh,Shohag Enterprise,0800,a1
+2018-01-16,Dhaka,Panchagarh,Hanif Enterprise,0900,a1
+2018-01-17,Dhaka,Chittagong,GreenLine,0700,a1
+2018-01-17,Dhaka,Panchagarh,GreenLine,0700,a1
+2018-01-17,Dhaka,Chittagong,Shohag Enterprise,0800,a1
+2018-01-17,Dhaka,Chittagong,Hanif Enterprise,0900,a1
+2018-01-17,Dhaka,Panchagarh,Shohag Enterprise,0800,a1
+2018-01-17,Dhaka,Panchagarh,Hanif Enterprise,0900,a1
